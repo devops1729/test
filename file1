@@ -1,4 +1,10 @@
 commit1
 commit2
+<<<<<<< HEAD
 commit5
 commit6
+=======
+commit3
+commit4
+
+>>>>>>> dev
